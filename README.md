@@ -11,3 +11,5 @@ Some basic swing examples.
 * Add & Remove
 * Chat Application
 * Puzzle Games
+
+You can find the sample outputs into output folder.
