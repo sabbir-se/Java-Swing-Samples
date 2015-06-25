@@ -9,6 +9,7 @@ Some basic swing examples.
 * GridLayout
 * GridBagLayout
 * Add & Remove
+* Smiley Face
 * Chat Application
 * Puzzle Games
 
